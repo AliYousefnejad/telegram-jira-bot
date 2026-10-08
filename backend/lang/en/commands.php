@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'start' => 'Start',
+    'menu' => 'Main menu',
+    'help' => 'Help',
+    'about' => 'About the bot',
+    'link' => 'Link Jira account',
+    'projects' => 'List projects',
+    'tasks' => 'Tasks of the default project',
+    'task' => 'Task details',
+    'users' => 'List users',
+    'assign' => 'Assign a task',
+    'unassign' => 'Remove assignment',
+    'create' => 'Create a task',
+    'boards' => 'List boards',
+    'sprints' => 'List sprints',
+    'push' => 'Add to sprint',
+    'status' => 'Change status',
+    'report' => 'Register a problem / bug / force majeure (admin)',
+    'managetasks' => 'Browse and edit open tasks (admin)',
+    'timeline' => 'Browse and view task timelines (admin)',
+    'allow_topic' => 'Enable topic',
+    'disallow_topic' => 'Disable topic',
+    'list_allowed_topics' => 'List allowed topics',
+    'set_topic_name' => 'Set topic name',
+];

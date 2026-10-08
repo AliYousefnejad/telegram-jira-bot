@@ -1,0 +1,12 @@
+# Shared. Laravel's own ignores are in backend/.gitignore, the frontend's in frontend/.gitignore.
+.env
+*.log
+*.save
+.DS_Store
+Thumbs.db
+/.codex
+/.cursor/
+/.idea
+/.vscode
+/.zed
+/.playwright-mcp
